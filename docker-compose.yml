@@ -7,9 +7,12 @@ services:
     ports:
       - "8000:8000"
     image: fastapi_app
+    volumes:
+      - .:/app
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload 
     environment:
-      - DATABASE_URL=postgresql://postgres:936042180S@db:5432/mydatabase
-
+      - DATABASE_URL=postgresql://kwenda:936042180S@db:5432/mydatabase
+ 
   db:
     image: postgres:15
     container_name: postgres_db

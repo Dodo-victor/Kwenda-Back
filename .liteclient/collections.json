@@ -1,0 +1,99 @@
+[
+  {
+    "id": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+    "name": "Kwenda_request",
+    "variables": [],
+    "items": [
+      {
+        "method": "GET",
+        "url": "http://localhost:8000/auth/verify-email?code=1026565",
+        "headers": {
+          "code": "073773"
+        },
+        "body": {
+          "mode": "none"
+        },
+        "auth": {
+          "type": "none"
+        },
+        "preRequestScript": "",
+        "postResponseScript": "",
+        "type": "request",
+        "id": "49713568-da71-4cca-bb29-34d4e03e2a1f",
+        "name": "Verify E-mail"
+      },
+      {
+        "method": "POST",
+        "url": "http://localhost:8000/auth/register-user-and-organization",
+        "headers": {
+          "latitude": "-8.835926 ",
+          "longitude": "13.264251"
+        },
+        "body": {
+          "mode": "raw",
+          "rawType": "json",
+          "value": "{\n  \"admin\": {\n    \"username\": \"admkiknpapfpjs_test\",\n    \"email\": \"wondersteip@gmail.com\",\n    \"address\": \"Rua do Admin, 123\",\n    \"phone_number\": \"936448174\",\n    \"password\": \"936042180Ss$\",\n    \"is_active\": true,\n    \"type_user\": \"user\",\n    \"created_at\": \"2026-04-03T10:00:00Z\",\n    \"last_login\": \"2026-04-03T10:00:00Z\"\n  },\n  \"organization\": {\n    \"name\": \"Verdinha Solarrr\",\n    \"email\": \"astroboydos@gmail.com\",\n    \"phone_number\": \"931454475\",\n    \"password\": \"936042180Ss$\",\n    \"website\": \"https://www.organizacao.com\",\n    \"province\": \"Luanda\",\n    \"city\": \"Luanda\",\n    \"type_organization\": \"Tecnologia\",\n    \"address\": \"Avenida Principal, Lote 45\"\n  }\n}\n"
+        },
+        "auth": {
+          "type": "none"
+        },
+        "preRequestScript": "",
+        "postResponseScript": "",
+        "type": "request",
+        "id": "28daf079-b5ab-412c-8cc3-c850bbbe11df",
+        "name": "Register user and organization"
+      },
+      {
+        "id": "mnkr1t8qs2dh1",
+        "name": "Login",
+        "method": "GET",
+        "url": "https://liteclient.com/hello",
+        "headers": {},
+        "body": {
+          "mode": "none"
+        },
+        "type": "request"
+      },
+      {
+        "method": "POST",
+        "url": "http://localhost:8000/admin/add-services",
+        "headers": {
+          "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+        },
+        "body": {
+          "mode": "raw",
+          "rawType": "json",
+          "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+        },
+        "auth": {
+          "type": "none"
+        },
+        "preRequestScript": "",
+        "postResponseScript": "",
+        "type": "request",
+        "id": "mo7rrftxd5m5r",
+        "name": "Add Services"
+      },
+      {
+        "method": "POST",
+        "url": "http://localhost:8000/admin/queue",
+        "headers": {
+          "x-auth-token": ""
+        },
+        "body": {
+          "mode": "raw",
+          "rawType": "json",
+          "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+        },
+        "auth": {
+          "type": "none"
+        },
+        "preRequestScript": "",
+        "postResponseScript": "",
+        "type": "request",
+        "id": "mootfqr1vgfaj",
+        "name": "queue route"
+      }
+    ]
+  }
+]

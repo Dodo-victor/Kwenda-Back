@@ -1,1 +1,5 @@
-DATABASE_URL = "postgresql://postgres:936042180S@db:5432/mydatabase"
+import os
+
+DATABASE_URL = os.getenv(
+    "DATABASE_URL", "postgresql://kwenda:936042180S@db:5432/mydatabase"
+)

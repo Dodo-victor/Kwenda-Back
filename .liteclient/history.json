@@ -1,0 +1,3096 @@
+[
+  {
+    "id": "51fa063a-1c2d-44a4-81c2-bdaf5e1922fd",
+    "timestamp": 1777760958655,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Stenford\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "400 Bad Request",
+      "durationMs": 46
+    }
+  },
+  {
+    "id": "63a2b018-a0ec-4bd5-89ef-0d7475d0db94",
+    "timestamp": 1777760949552,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Stenford\",\n    \"has_ticket\": true,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 29
+    }
+  },
+  {
+    "id": "757bf639-f245-48b4-982d-fad1e7fa74d6",
+    "timestamp": 1777760930353,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Stenford\",\n    \"has_ticket\": true,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 25
+    }
+  },
+  {
+    "id": "c4c7066f-9575-4c79-86eb-7841cdf83eae",
+    "timestamp": 1777760919626,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Stenford\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "201 Created",
+      "durationMs": 116
+    }
+  },
+  {
+    "id": "d3a86edc-e6a6-4c4e-b4a9-d3050a2a0179",
+    "timestamp": 1777760905645,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Jonas Wesley\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "201 Created",
+      "durationMs": 62
+    }
+  },
+  {
+    "id": "0cbc800c-bce4-41df-baa6-f2dc7be24e28",
+    "timestamp": 1777760891194,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "400 Bad Request",
+      "durationMs": 205
+    }
+  },
+  {
+    "id": "373ee150-40ce-4867-af18-d9751e207d83",
+    "timestamp": 1777760808699,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 32
+    }
+  },
+  {
+    "id": "2f97c48e-a060-471c-8a99-7ca7932e9266",
+    "timestamp": 1777760802433,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 19
+    }
+  },
+  {
+    "id": "eb5794fb-a0f7-4c3b-a1b4-8f485aeee4ea",
+    "timestamp": 1777760801897,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 24
+    }
+  },
+  {
+    "id": "3fa5261c-8e94-4a4a-b96a-ae232f8a0b86",
+    "timestamp": 1777760801687,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 22
+    }
+  },
+  {
+    "id": "e8ba140f-9c4c-4288-931f-c36eb34d0781",
+    "timestamp": 1777760801501,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 21
+    }
+  },
+  {
+    "id": "ccc51194-3d04-410e-96b3-ddab808ee9b2",
+    "timestamp": 1777760801280,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 25
+    }
+  },
+  {
+    "id": "bbb780d4-c028-45b5-bdb3-7d26ebf96c35",
+    "timestamp": 1777760800960,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 26
+    }
+  },
+  {
+    "id": "8983c696-68fb-44f8-a09e-143722a96a48",
+    "timestamp": 1777760800732,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 42
+    }
+  },
+  {
+    "id": "aa0d2211-f220-44cb-af2d-dc3d44cb27c5",
+    "timestamp": 1777760800165,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 75
+    }
+  },
+  {
+    "id": "9e4b778b-5a77-4bec-b257-bc4d69eb0fdb",
+    "timestamp": 1777760799251,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 26
+    }
+  },
+  {
+    "id": "8307ddcd-6a2d-4b6f-b866-b5c5043b42fd",
+    "timestamp": 1777760793494,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 28
+    }
+  },
+  {
+    "id": "446f3407-4454-465c-9398-28c8fe4aa26b",
+    "timestamp": 1777760792272,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 192
+    }
+  },
+  {
+    "id": "f104185a-7c1d-4397-b3a8-cce6f1e35563",
+    "timestamp": 1777760711177,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 27
+    }
+  },
+  {
+    "id": "cc9824fd-44ff-4e64-b13a-d6266091c6fb",
+    "timestamp": 1777760703466,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 110
+    }
+  },
+  {
+    "id": "b3c1ac28-341d-47c5-b04c-fb38de4b7ee1",
+    "timestamp": 1777760700202,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "201 Created",
+      "durationMs": 829
+    }
+  },
+  {
+    "id": "8ed1ccd4-dd15-4764-be4e-26c20a240219",
+    "timestamp": 1777760692496,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 15
+    }
+  },
+  {
+    "id": "90f8f912-51f3-412b-82e1-db35df349941",
+    "timestamp": 1777760691453,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 18
+    }
+  },
+  {
+    "id": "73c6606b-b33e-482c-88c1-3c66ba573a43",
+    "timestamp": 1777760654289,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 12
+    }
+  },
+  {
+    "id": "4774bd26-0360-4e6b-8d76-bd71cff61865",
+    "timestamp": 1777760652028,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 67
+    }
+  },
+  {
+    "id": "85844c49-afbb-4b12-b8bc-4d3b334c281e",
+    "timestamp": 1777760621587,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "Timeout",
+      "durationMs": 0
+    }
+  },
+  {
+    "id": "4fbaf7e0-3c0d-41ae-a3bf-fd5ca4fd160f",
+    "timestamp": 1777760588020,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "Timeout",
+      "durationMs": 0
+    }
+  },
+  {
+    "id": "8ad999c0-6794-4ef6-b73b-8ac399652b84",
+    "timestamp": 1777760496543,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 175
+    }
+  },
+  {
+    "id": "36b28dbc-7a75-4e69-ad71-2aa197141e5c",
+    "timestamp": 1777760296834,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 280
+    }
+  },
+  {
+    "id": "7b972329-a52f-4507-94e8-4f6f367c08e7",
+    "timestamp": 1777760276897,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_queue\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "422 Unprocessable Entity",
+      "durationMs": 17
+    }
+  },
+  {
+    "id": "d608037d-3316-4d49-901d-de6377302be3",
+    "timestamp": 1777760196607,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"has_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 2582
+    }
+  },
+  {
+    "id": "dc658c4d-6508-4adc-9b06-edbbe5e44f37",
+    "timestamp": 1777759714487,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 20
+    }
+  },
+  {
+    "id": "4ad73cec-d0b4-43db-b2c1-eeef98fd4e04",
+    "timestamp": 1777759704744,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": true,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 27
+    }
+  },
+  {
+    "id": "22cac122-2e42-4fe6-adeb-4a69b63b8793",
+    "timestamp": 1777759695550,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 19
+    }
+  },
+  {
+    "id": "6b3564c6-cd2c-429a-acde-4fadf7559885",
+    "timestamp": 1777759694066,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 43
+    }
+  },
+  {
+    "id": "057ddb6e-c670-4fda-9f73-83f214267532",
+    "timestamp": 1777759614993,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 16
+    }
+  },
+  {
+    "id": "7ba5ffb0-b01f-48d8-b4d8-6ac3cacba503",
+    "timestamp": 1777759613068,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 26
+    }
+  },
+  {
+    "id": "f8e04700-785b-4fc2-b8ce-580000beda69",
+    "timestamp": 1777759564948,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 180
+    }
+  },
+  {
+    "id": "948fc054-78ad-460c-a465-ab3d82404858",
+    "timestamp": 1777759489735,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 18
+    }
+  },
+  {
+    "id": "772b7cda-a5cc-4158-9123-6b15a7b52276",
+    "timestamp": 1777759486083,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 143
+    }
+  },
+  {
+    "id": "159ef274-e45b-4e21-855e-0178ee7ba508",
+    "timestamp": 1777759440956,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 186
+    }
+  },
+  {
+    "id": "2f42f81d-3d9c-4c8a-8cee-33ac49c93dd6",
+    "timestamp": 1777759348698,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 40
+    }
+  },
+  {
+    "id": "b0c44f51-a0a3-4c9e-a8fd-08d7ce6aa888",
+    "timestamp": 1777759342204,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 25
+    }
+  },
+  {
+    "id": "5116980c-d0d2-44a9-984a-30ea887a9c8a",
+    "timestamp": 1777759255520,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\"\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 177
+    }
+  },
+  {
+    "id": "7f4fba78-cffb-48d8-b168-f65acca7e22e",
+    "timestamp": 1777759247676,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\",\n    \"hah_ticket\": false,\n    \"type_senha\": \"numeric\",\n  \n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "422 Unprocessable Entity",
+      "durationMs": 47
+    }
+  },
+  {
+    "id": "5c7c7abc-72d1-46ce-bbd3-e5a4a109c372",
+    "timestamp": 1777759178044,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "422 Unprocessable Entity",
+      "durationMs": 139
+    }
+  },
+  {
+    "id": "7befa5c1-bc67-49ec-8efc-e1dce9187a12",
+    "timestamp": 1777756745275,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 33
+    }
+  },
+  {
+    "id": "b2dcc0b5-fa1e-4945-b2ad-acbcba3c6236",
+    "timestamp": 1777756692169,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 22
+    }
+  },
+  {
+    "id": "65c79021-d27a-41a7-8cf1-279fe45bbb6f",
+    "timestamp": 1777756548317,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"460c5fe4-cd10-4cfd-bfc1-048460f545f7\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 112
+    }
+  },
+  {
+    "id": "f09e2465-31ec-4013-8f84-b0da94a14194",
+    "timestamp": 1777756443069,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 1295
+    }
+  },
+  {
+    "id": "fe174dad-fdca-4560-8936-fc6e45b09ec4",
+    "timestamp": 1777756166484,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 404
+    }
+  },
+  {
+    "id": "9a25569e-2559-418a-bfc7-d24b6a7a398f",
+    "timestamp": 1777756099312,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 33
+    }
+  },
+  {
+    "id": "9fa378e1-df34-4064-bf9b-6324a0a2b574",
+    "timestamp": 1777756035618,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/set-queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 16
+    }
+  },
+  {
+    "id": "18243d76-e649-4d35-8535-116f2a1723c6",
+    "timestamp": 1777756010935,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 9
+    }
+  },
+  {
+    "id": "fd1f6774-f23e-47d8-b1dc-9ddc5f59c333",
+    "timestamp": 1777756009801,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 34
+    }
+  },
+  {
+    "id": "91252038-b6e8-449f-9440-2978334839b9",
+    "timestamp": 1777755874156,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "Network Error",
+      "durationMs": 0
+    }
+  },
+  {
+    "id": "9f4e39ac-8687-4fd3-b221-acb3bbf0f5f2",
+    "timestamp": 1777755873333,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "Network Error",
+      "durationMs": 0
+    }
+  },
+  {
+    "id": "7edcc90d-b014-497f-a1dc-7fc82cb36a13",
+    "timestamp": 1777755871623,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "Network Error",
+      "durationMs": 0
+    }
+  },
+  {
+    "id": "e5b24527-5ced-4750-b7b3-fdf5f3b12969",
+    "timestamp": 1777755870744,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "Network Error",
+      "durationMs": 0
+    }
+  },
+  {
+    "id": "d8940872-7a61-4bd8-9f29-27b3a4947fbc",
+    "timestamp": 1777755865679,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "Network Error",
+      "durationMs": 0
+    }
+  },
+  {
+    "id": "554052f0-d5b1-44a9-9fc2-a0ff24cf4a38",
+    "timestamp": 1777755666558,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "Network Error",
+      "durationMs": 0
+    }
+  },
+  {
+    "id": "fb3dd3e2-7ed8-4f55-a8cd-689078030e2d",
+    "timestamp": 1777755560619,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 9
+    }
+  },
+  {
+    "id": "650f72e6-5213-42d8-97cd-a279612209d7",
+    "timestamp": 1777755560186,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 10
+    }
+  },
+  {
+    "id": "86016ab5-3028-4fe9-96c1-7926c984cc49",
+    "timestamp": 1777755559933,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 41
+    }
+  },
+  {
+    "id": "4d7293de-1243-4b1d-a55e-2cd7701812b9",
+    "timestamp": 1777755559730,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 8
+    }
+  },
+  {
+    "id": "74bc6827-af4e-4c96-8122-b0deda8e863c",
+    "timestamp": 1777755559515,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 7
+    }
+  },
+  {
+    "id": "4d8d9963-bf34-429e-b2f2-a5776b14f542",
+    "timestamp": 1777755559284,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 11
+    }
+  },
+  {
+    "id": "ba5fdd11-eeb4-4ce1-a7dd-3da7d5e344a4",
+    "timestamp": 1777755559063,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 23
+    }
+  },
+  {
+    "id": "c7a5e9be-4215-4dca-952c-84d0094eb4f0",
+    "timestamp": 1777755557696,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 11
+    }
+  },
+  {
+    "id": "c4b5c203-8278-4c49-8dd1-3669b14871d2",
+    "timestamp": 1777755516617,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": ""
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 14
+    }
+  },
+  {
+    "id": "366f22d6-0c62-4965-b60e-ef5bb3ff3b95",
+    "timestamp": 1777755515837,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": ""
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 18
+    }
+  },
+  {
+    "id": "1b43cdc2-568c-4d71-840b-852d88ce730c",
+    "timestamp": 1777755514719,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/queue",
+      "headers": {
+        "x-auth-token": ""
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 52
+    }
+  },
+  {
+    "id": "e8dd0ead-ca3a-4945-92d8-ff7a9b7d8476",
+    "timestamp": 1777755474663,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/set-queue",
+      "headers": {
+        "x-auth-token": ""
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 8
+    }
+  },
+  {
+    "id": "03728159-3837-4607-8d81-101f84ce6966",
+    "timestamp": 1777755473635,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/set-queue",
+      "headers": {
+        "x-auth-token": ""
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 50
+    }
+  },
+  {
+    "id": "9f212cad-d345-4b0f-bc2a-e73e929436b3",
+    "timestamp": 1777755424919,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mootfqr1vgfaj"
+    },
+    "request": {
+      "name": "queue route",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/set-queue?x-auth-token=",
+      "headers": {
+        "x-auth-token": ""
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"service_id\": \"ffeaa750-aebe-411b-869b-277c6d8f0977\",\n    \"client_name\": \"Astro Boy\"\n}"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 105
+    }
+  },
+  {
+    "id": "33f483e9-db10-42f4-b0bc-6bf236cb500b",
+    "timestamp": 1777753421080,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Requiremento\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 10,\n    \"allowed_regions\": [\"AO\", \"NA\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "201 Created",
+      "durationMs": 338
+    }
+  },
+  {
+    "id": "2062bafe-7290-424a-8021-c4a873f9d963",
+    "timestamp": 1777753150863,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "201 Created",
+      "durationMs": 227
+    }
+  },
+  {
+    "id": "158e5803-5a71-4f06-9fc8-6bc086444e35",
+    "timestamp": 1777752974661,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 23
+    }
+  },
+  {
+    "id": "98ad250c-a6ce-4870-813d-cf362c453c0e",
+    "timestamp": 1777752972723,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 117
+    }
+  },
+  {
+    "id": "e4f33284-6281-492f-9e82-76623df97be2",
+    "timestamp": 1777752497274,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 594
+    }
+  },
+  {
+    "id": "330d0db7-05e0-4351-9fdc-9f40961bd347",
+    "timestamp": 1777233429177,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 138
+    }
+  },
+  {
+    "id": "2ab0a3f6-0e13-4ff3-822a-caadc61a8494",
+    "timestamp": 1777233329914,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 173
+    }
+  },
+  {
+    "id": "2afa6421-6a83-4543-ab16-63e74b9dc8a8",
+    "timestamp": 1777233197962,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 188
+    }
+  },
+  {
+    "id": "fd98bdbf-abe4-4499-8fc9-ad1be4be2cd2",
+    "timestamp": 1777232632205,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 16
+    }
+  },
+  {
+    "id": "778291e8-2860-40a8-8bb6-9fe8f5076d02",
+    "timestamp": 1777232629833,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 18
+    }
+  },
+  {
+    "id": "570e9745-33db-4410-8297-329f8329e316",
+    "timestamp": 1777232628984,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 14
+    }
+  },
+  {
+    "id": "b82ef1f5-783d-45e0-b52d-fae731a0e227",
+    "timestamp": 1777232625518,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 91
+    }
+  },
+  {
+    "id": "a9b71a27-9a56-4905-ab3d-0b25fd2f6236",
+    "timestamp": 1777232542188,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 83
+    }
+  },
+  {
+    "id": "cb7ebf5e-b835-4088-8937-09403b9a0fdd",
+    "timestamp": 1777232325293,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 155
+    }
+  },
+  {
+    "id": "a6c2aa7c-8630-433f-bca8-3441ab6aaf66",
+    "timestamp": 1777231609902,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 23
+    }
+  },
+  {
+    "id": "e2943735-afc5-4377-985f-606abbee1d1d",
+    "timestamp": 1777231539717,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "mo7rrftxd5m5r"
+    },
+    "request": {
+      "name": "Add Services",
+      "method": "POST",
+      "url": "http://localhost:8000/admin/add-services",
+      "headers": {
+        "x-auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMGQ0YTA0YTQtMGYzNi00ZWFjLWE1MTUtNjk1YTViYTM2YjliIiwib3JnYW5pemF0aW9uX2lkIjoiNjQ3ZmI2MTEtNjk4Ny00NGJkLThmYTMtMDhjMGI5Y2ZkYjM0In0.iVJGowPcUqrah7UVtKsJaolqZ57ieD0Eg7erMRNlaII"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"name\": \"Premium Support\",\n  \"restrictions\": {\n    \"max_tickets_per_day\": 5,\n    \"allowed_regions\": [\"US\", \"EU\"],\n    \"requires_admin\": false\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "404 Not Found",
+      "durationMs": 165
+    }
+  },
+  {
+    "id": "a41fd2ea-0f36-4d94-90db-c20a59117939",
+    "timestamp": 1777231021238,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "49713568-da71-4cca-bb29-34d4e03e2a1f"
+    },
+    "request": {
+      "name": "Verify E-mail",
+      "method": "GET",
+      "url": "http://localhost:8000/auth/verify-email?code=1026565",
+      "headers": {
+        "code": "547214"
+      },
+      "body": {
+        "mode": "none"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "200 OK",
+      "durationMs": 123
+    }
+  },
+  {
+    "id": "b7e722b9-6e0c-4e87-96e9-b65f609b6235",
+    "timestamp": 1777230991461,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "28daf079-b5ab-412c-8cc3-c850bbbe11df"
+    },
+    "request": {
+      "name": "Register user and organization",
+      "method": "POST",
+      "url": "http://localhost:8000/auth/register-user-and-organization",
+      "headers": {
+        "latitude": "-8.835926 ",
+        "longitude": "13.264251"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"admin\": {\n    \"username\": \"admkiknpapfpjs_test\",\n    \"email\": \"wondersteip@gmail.com\",\n    \"address\": \"Rua do Admin, 123\",\n    \"phone_number\": \"936448174\",\n    \"password\": \"936042180Ss$\",\n    \"is_active\": true,\n    \"type_user\": \"user\",\n    \"created_at\": \"2026-04-03T10:00:00Z\",\n    \"last_login\": \"2026-04-03T10:00:00Z\"\n  },\n  \"organization\": {\n    \"name\": \"Blue Tech\",\n    \"email\": \"dodovictor80@gmail.com\",\n    \"phone_number\": \"931454490\",\n    \"password\": \"936042180Ss$\",\n    \"website\": \"https://www.organizacao.com\",\n    \"province\": \"Luanda\",\n    \"city\": \"Luanda\",\n    \"type_organization\": \"Tecnologia\",\n    \"address\": \"Avenida Principal, Lote 45\"\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "201 Created",
+      "durationMs": 4814
+    }
+  },
+  {
+    "id": "d38d0921-d22f-4f79-b90a-4404845e7e47",
+    "timestamp": 1777230833887,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "28daf079-b5ab-412c-8cc3-c850bbbe11df"
+    },
+    "request": {
+      "name": "Register user and organization",
+      "method": "POST",
+      "url": "http://localhost:8000/auth/register-user-and-organization",
+      "headers": {
+        "latitude": "-8.835926 ",
+        "longitude": "13.264251"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"admin\": {\n    \"username\": \"admkiknpapfpjs_test\",\n    \"email\": \"wondersteip@gmail.com\",\n    \"address\": \"Rua do Admin, 123\",\n    \"phone_number\": \"936448174\",\n    \"password\": \"936042180Ss$\",\n    \"is_active\": true,\n    \"type_user\": \"user\",\n    \"created_at\": \"2026-04-03T10:00:00Z\",\n    \"last_login\": \"2026-04-03T10:00:00Z\"\n  },\n  \"organization\": {\n    \"name\": \"Verdinha Solarrr\",\n    \"email\": \"astroboydos@gmail.com\",\n    \"phone_number\": \"931454475\",\n    \"password\": \"936042180Ss$\",\n    \"website\": \"https://www.organizacao.com\",\n    \"province\": \"Luanda\",\n    \"city\": \"Luanda\",\n    \"type_organization\": \"Tecnologia\",\n    \"address\": \"Avenida Principal, Lote 45\"\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "400 Bad Request",
+      "durationMs": 878
+    }
+  },
+  {
+    "id": "5d2c4ec8-c19f-47c7-b841-c7df1abcf89a",
+    "timestamp": 1777230638929,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "49713568-da71-4cca-bb29-34d4e03e2a1f"
+    },
+    "request": {
+      "name": "Verify E-mail",
+      "method": "GET",
+      "url": "http://localhost:8000/auth/verify-email?code=841609",
+      "headers": {
+        "code": "841609"
+      },
+      "body": {
+        "mode": "none"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "400 Bad Request",
+      "durationMs": 24
+    }
+  },
+  {
+    "id": "78d9c2e2-1841-4dfb-bd69-73a67d032112",
+    "timestamp": 1777230634367,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "49713568-da71-4cca-bb29-34d4e03e2a1f"
+    },
+    "request": {
+      "name": "Verify E-mail",
+      "method": "GET",
+      "url": "http://localhost:8000/auth/verify-email?code=841609",
+      "headers": {
+        "code": "841609"
+      },
+      "body": {
+        "mode": "none"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "500 Internal Server Error",
+      "durationMs": 94
+    }
+  },
+  {
+    "id": "c81dd29b-64df-40d7-87e5-0a8131a6cdbb",
+    "timestamp": 1777230596280,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "49713568-da71-4cca-bb29-34d4e03e2a1f"
+    },
+    "request": {
+      "name": "Verify E-mail",
+      "method": "GET",
+      "url": "http://localhost:8000/auth/verify-email?code=841609",
+      "headers": {
+        "code": "073773"
+      },
+      "body": {
+        "mode": "none"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "400 Bad Request",
+      "durationMs": 20
+    }
+  },
+  {
+    "id": "044c8563-9f0e-44ae-8b65-4c1d4a645a00",
+    "timestamp": 1777230589147,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "49713568-da71-4cca-bb29-34d4e03e2a1f"
+    },
+    "request": {
+      "name": "Verify E-mail",
+      "method": "GET",
+      "url": "http://localhost:8000/auth/verify-email?code=841609",
+      "headers": {
+        "code": "073773"
+      },
+      "body": {
+        "mode": "none"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "400 Bad Request",
+      "durationMs": 82
+    }
+  },
+  {
+    "id": "8ec467d3-b608-46a0-b8ba-fad5a8ff1978",
+    "timestamp": 1777230485344,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "28daf079-b5ab-412c-8cc3-c850bbbe11df"
+    },
+    "request": {
+      "name": "Register user and organization",
+      "method": "POST",
+      "url": "http://localhost:8000/auth/register-user-and-organization",
+      "headers": {
+        "latitude": "-8.835926 ",
+        "longitude": "13.264251"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"admin\": {\n    \"username\": \"admkiknpapfpjs_test\",\n    \"email\": \"wondersteip@gmail.com\",\n    \"address\": \"Rua do Admin, 123\",\n    \"phone_number\": \"936448174\",\n    \"password\": \"936042180Ss$\",\n    \"is_active\": true,\n    \"type_user\": \"user\",\n    \"created_at\": \"2026-04-03T10:00:00Z\",\n    \"last_login\": \"2026-04-03T10:00:00Z\"\n  },\n  \"organization\": {\n    \"name\": \"A-Code\",\n    \"email\": \"acode@gmail.com\",\n    \"phone_number\": \"931454478\",\n    \"password\": \"936042180Ss$\",\n    \"website\": \"https://www.organizacao.com\",\n    \"province\": \"Luanda\",\n    \"city\": \"Luanda\",\n    \"type_organization\": \"Tecnologia\",\n    \"address\": \"Avenida Principal, Lote 45\"\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "201 Created",
+      "durationMs": 5833
+    }
+  },
+  {
+    "id": "6ae2841a-f5bf-4c23-83ca-611382de49e1",
+    "timestamp": 1777230469582,
+    "source": {
+      "type": "collection",
+      "collectionId": "720f9186-d38a-4ba6-aea7-790a6dee0981",
+      "requestId": "28daf079-b5ab-412c-8cc3-c850bbbe11df"
+    },
+    "request": {
+      "name": "Register user and organization",
+      "method": "POST",
+      "url": "http://localhost:8000/auth/register-user-and-organization",
+      "headers": {
+        "latitude": "-8.835926 ",
+        "longitude": "13.264251"
+      },
+      "body": {
+        "mode": "raw",
+        "rawType": "json",
+        "value": "{\n  \"admin\": {\n    \"username\": \"admkiknpapfpjs_test\",\n    \"email\": \"wondersteip@gmail.com\",\n    \"address\": \"Rua do Admin, 123\",\n    \"phone_number\": \"936448174\",\n    \"password\": \"936042180Ss$\",\n    \"is_active\": true,\n    \"type_user\": \"user\",\n    \"created_at\": \"2026-04-03T10:00:00Z\",\n    \"last_login\": \"2026-04-03T10:00:00Z\"\n  },\n  \"organization\": {\n    \"name\": \"A-Code\",\n    \"email\": \"acode@gmail.com\",\n    \"phone_number\": \"931454475\",\n    \"password\": \"936042180Ss$\",\n    \"website\": \"https://www.organizacao.com\",\n    \"province\": \"Luanda\",\n    \"city\": \"Luanda\",\n    \"type_organization\": \"Tecnologia\",\n    \"address\": \"Avenida Principal, Lote 45\"\n  }\n}\n"
+      },
+      "auth": {
+        "type": "none"
+      },
+      "preRequestScript": "",
+      "postResponseScript": ""
+    },
+    "result": {
+      "status": "400 Bad Request",
+      "durationMs": 486
+    }
+  }
+]
